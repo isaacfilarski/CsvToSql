@@ -1,4 +1,3 @@
-C:\Users\IsaacFilarski\Downloads\CsvToSql\DAL.CsvToSql\obj\Debug\net5.0\DAL.CsvToSql.csproj.AssemblyReference.cache
 C:\Users\IsaacFilarski\Downloads\CsvToSql\DAL.CsvToSql\obj\Debug\net5.0\DAL.CsvToSql.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\IsaacFilarski\Downloads\CsvToSql\DAL.CsvToSql\obj\Debug\net5.0\DAL.CsvToSql.AssemblyInfoInputs.cache
 C:\Users\IsaacFilarski\Downloads\CsvToSql\DAL.CsvToSql\obj\Debug\net5.0\DAL.CsvToSql.AssemblyInfo.cs
