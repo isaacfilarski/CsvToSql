@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w8BtGXMrN6xm4dl+NGYh+ivxarMMuBIi/HiDylwM69EbQ2MpyiKkuYNIJUeEAk8lCIQEUCoDWbE9KXNLRAswPw==",
+  "dgSpecHash": "QMcejKgH1DrnRPxmT1NUU6TmFDfbIPGJLqqYIyM4lXQhVQo+B7SGnheBCL1OkZQc2Xp7aWcfa/TqaUyWMfl+HA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Code challenge\\CsvToSql.API.csproj",
+  "projectFilePath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\CsvToSql\\CsvToSql.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IsaacFilarski\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
     "C:\\Users\\IsaacFilarski\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.12\\microsoft.entityframeworkcore.5.0.12.nupkg.sha512",

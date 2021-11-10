@@ -608,8 +608,8 @@
     },
     "Core/1.0.0": {
       "type": "project",
-      "path": "../Core/Core.csproj",
-      "msbuildProject": "../Core/Core.csproj"
+      "path": "../Backend/Core/Core.csproj",
+      "msbuildProject": "../Backend/Core/Core.csproj"
     },
     "DAL.CsvToSql/1.0.0": {
       "type": "project",
@@ -618,13 +618,13 @@
     },
     "Repositories/1.0.0": {
       "type": "project",
-      "path": "../Repositories/Repositories.csproj",
-      "msbuildProject": "../Repositories/Repositories.csproj"
+      "path": "../Backend/Repositories/Repositories.csproj",
+      "msbuildProject": "../Backend/Repositories/Repositories.csproj"
     },
     "Services/1.0.0": {
       "type": "project",
-      "path": "../Services/Services.csproj",
-      "msbuildProject": "../Services/Services.csproj"
+      "path": "../Backend/Services/Services.csproj",
+      "msbuildProject": "../Backend/Services/Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -640,11 +640,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Code challenge\\CsvToSql.API.csproj",
+      "projectUniqueName": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\CsvToSql\\CsvToSql.API.csproj",
       "projectName": "CsvToSql.API",
-      "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Code challenge\\CsvToSql.API.csproj",
+      "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\CsvToSql\\CsvToSql.API.csproj",
       "packagesPath": "C:\\Users\\IsaacFilarski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Code challenge\\obj\\",
+      "outputPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\CsvToSql\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -667,8 +667,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Services\\Services.csproj"
+            "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Services\\Services.csproj"
             }
           }
         }

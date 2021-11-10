@@ -1,84 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Code challenge\\CsvToSql.API.csproj": {}
+    "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\CsvToSql\\CsvToSql.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Code challenge\\CsvToSql.API.csproj": {
+    "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Code challenge\\CsvToSql.API.csproj",
-        "projectName": "CsvToSql.API",
-        "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Code challenge\\CsvToSql.API.csproj",
-        "packagesPath": "C:\\Users\\IsaacFilarski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Code challenge\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\IsaacFilarski\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Services\\Services.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Core\\Core.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\IsaacFilarski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Core\\obj\\",
+        "outputPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -129,6 +62,213 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Repositories\\Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Repositories\\Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\IsaacFilarski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\IsaacFilarski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\DAL.CsvToSql\\DAL.CsvToSql.csproj": {
+                "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\DAL.CsvToSql\\DAL.CsvToSql.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\IsaacFilarski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\IsaacFilarski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Core\\Core.csproj"
+              },
+              "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Repositories\\Repositories.csproj"
+              },
+              "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\DAL.CsvToSql\\DAL.CsvToSql.csproj": {
+                "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\DAL.CsvToSql\\DAL.CsvToSql.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[27.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\CsvToSql\\CsvToSql.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\CsvToSql\\CsvToSql.API.csproj",
+        "projectName": "CsvToSql.API",
+        "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\CsvToSql\\CsvToSql.API.csproj",
+        "packagesPath": "C:\\Users\\IsaacFilarski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\CsvToSql\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\IsaacFilarski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Backend\\Services\\Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -182,146 +322,6 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.12, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Repositories\\Repositories.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Repositories\\Repositories.csproj",
-        "projectName": "Repositories",
-        "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\IsaacFilarski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Repositories\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\IsaacFilarski\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\DAL.CsvToSql\\DAL.CsvToSql.csproj": {
-                "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\DAL.CsvToSql\\DAL.CsvToSql.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Services\\Services.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Services\\Services.csproj",
-        "projectName": "Services",
-        "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\IsaacFilarski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Services\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\IsaacFilarski\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Core\\Core.csproj"
-              },
-              "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\DAL.CsvToSql\\DAL.CsvToSql.csproj": {
-                "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\DAL.CsvToSql\\DAL.CsvToSql.csproj"
-              },
-              "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Repositories\\Repositories.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "dependencies": {
-            "CsvHelper": {
-              "target": "Package",
-              "version": "[27.1.1, )"
             }
           },
           "imports": [

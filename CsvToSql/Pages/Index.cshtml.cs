@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Code_challenge.Pages
+namespace CsvToSqlAPI.Pages
 {
     public class IndexModel : PageModel
     {

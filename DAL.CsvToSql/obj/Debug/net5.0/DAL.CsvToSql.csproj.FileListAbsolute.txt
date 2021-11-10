@@ -1,4 +1,11 @@
+C:\Users\IsaacFilarski\Downloads\CsvToSql\DAL.CsvToSql\bin\Debug\net5.0\DAL.CsvToSql.deps.json
+C:\Users\IsaacFilarski\Downloads\CsvToSql\DAL.CsvToSql\bin\Debug\net5.0\DAL.CsvToSql.dll
+C:\Users\IsaacFilarski\Downloads\CsvToSql\DAL.CsvToSql\bin\Debug\net5.0\ref\DAL.CsvToSql.dll
+C:\Users\IsaacFilarski\Downloads\CsvToSql\DAL.CsvToSql\bin\Debug\net5.0\DAL.CsvToSql.pdb
 C:\Users\IsaacFilarski\Downloads\CsvToSql\DAL.CsvToSql\obj\Debug\net5.0\DAL.CsvToSql.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\IsaacFilarski\Downloads\CsvToSql\DAL.CsvToSql\obj\Debug\net5.0\DAL.CsvToSql.AssemblyInfoInputs.cache
 C:\Users\IsaacFilarski\Downloads\CsvToSql\DAL.CsvToSql\obj\Debug\net5.0\DAL.CsvToSql.AssemblyInfo.cs
 C:\Users\IsaacFilarski\Downloads\CsvToSql\DAL.CsvToSql\obj\Debug\net5.0\DAL.CsvToSql.csproj.CoreCompileInputs.cache
+C:\Users\IsaacFilarski\Downloads\CsvToSql\DAL.CsvToSql\obj\Debug\net5.0\DAL.CsvToSql.dll
+C:\Users\IsaacFilarski\Downloads\CsvToSql\DAL.CsvToSql\obj\Debug\net5.0\ref\DAL.CsvToSql.dll
+C:\Users\IsaacFilarski\Downloads\CsvToSql\DAL.CsvToSql\obj\Debug\net5.0\DAL.CsvToSql.pdb
