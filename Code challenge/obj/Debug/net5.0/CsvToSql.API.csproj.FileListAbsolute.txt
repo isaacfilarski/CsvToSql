@@ -1,0 +1,8 @@
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Code challenge\obj\Debug\net5.0\CsvToSql.API.csproj.AssemblyReference.cache
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Code challenge\obj\Debug\net5.0\CsvToSql.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Code challenge\obj\Debug\net5.0\CsvToSql.API.AssemblyInfoInputs.cache
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Code challenge\obj\Debug\net5.0\CsvToSql.API.AssemblyInfo.cs
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Code challenge\obj\Debug\net5.0\CsvToSql.API.csproj.CoreCompileInputs.cache
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Code challenge\obj\Debug\net5.0\CsvToSql.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Code challenge\obj\Debug\net5.0\CsvToSql.API.RazorAssemblyInfo.cache
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Code challenge\obj\Debug\net5.0\CsvToSql.API.RazorAssemblyInfo.cs

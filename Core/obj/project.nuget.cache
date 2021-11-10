@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zjEI52EhU1ULdrz7QYoUOMYMciUAXBS5My5ijOg9gPmVPctanlo27GLHzLZ1/sHsQxibS7UOejrIb/4tDkAP2A==",
+  "dgSpecHash": "IGVP/Gsvik+MceB+uCgvOP33uSISCGUTq1EYnOtSTNZbcc2RtRZA+EEzFIRZq8QfKAgx5ARDlmcUpGSQvMUySg==",
   "success": true,
   "projectFilePath": "C:\\Users\\IsaacFilarski\\Downloads\\CsvToSql\\Core\\Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\IsaacFilarski\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512"
+  ],
   "logs": []
 }

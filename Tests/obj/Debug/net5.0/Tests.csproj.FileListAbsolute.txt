@@ -1,0 +1,16 @@
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Tests\bin\Debug\net5.0\Tests.exe
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Tests\bin\Debug\net5.0\Tests.deps.json
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Tests\bin\Debug\net5.0\Tests.runtimeconfig.json
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Tests\bin\Debug\net5.0\Tests.runtimeconfig.dev.json
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Tests\bin\Debug\net5.0\Tests.dll
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Tests\bin\Debug\net5.0\ref\Tests.dll
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Tests\bin\Debug\net5.0\Tests.pdb
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Tests\obj\Debug\net5.0\Tests.csproj.AssemblyReference.cache
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Tests\obj\Debug\net5.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Tests\obj\Debug\net5.0\Tests.AssemblyInfoInputs.cache
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Tests\obj\Debug\net5.0\Tests.AssemblyInfo.cs
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Tests\obj\Debug\net5.0\Tests.csproj.CoreCompileInputs.cache
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Tests\obj\Debug\net5.0\Tests.dll
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Tests\obj\Debug\net5.0\ref\Tests.dll
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Tests\obj\Debug\net5.0\Tests.pdb
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Tests\obj\Debug\net5.0\Tests.genruntimeconfig.cache

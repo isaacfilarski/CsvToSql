@@ -1,0 +1,5 @@
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Repositories\obj\Debug\net5.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Repositories\obj\Debug\net5.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfo.cs
+C:\Users\IsaacFilarski\Downloads\CsvToSql\Repositories\obj\Debug\net5.0\Repositories.csproj.CoreCompileInputs.cache
